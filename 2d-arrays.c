@@ -5,7 +5,7 @@ void	_2darray_single_pointer_(int rows, int columns) ;
 void	_pointer_to_a_pointer_(int rows, int columns) ;
 
 /*
-How to dinamically allocate 2D arrays (matrix)
+How to dinamically allocate 2D arrays
 
   1  2  3  4
   5  6  7  8
